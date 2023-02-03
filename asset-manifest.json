@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rgross/static/css/main.18c6c4a3.css",
+    "main.js": "/rgross/static/js/main.008f8c14.js",
+    "static/js/787.2aeb03a1.chunk.js": "/rgross/static/js/787.2aeb03a1.chunk.js",
+    "index.html": "/rgross/index.html",
+    "main.18c6c4a3.css.map": "/rgross/static/css/main.18c6c4a3.css.map",
+    "main.008f8c14.js.map": "/rgross/static/js/main.008f8c14.js.map",
+    "787.2aeb03a1.chunk.js.map": "/rgross/static/js/787.2aeb03a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c6c4a3.css",
+    "static/js/main.008f8c14.js"
+  ]
+}
